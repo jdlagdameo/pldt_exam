@@ -1,2 +1,0 @@
--- Setup Database Connection in config.php
--- Copy the project to xampp/htdocs
