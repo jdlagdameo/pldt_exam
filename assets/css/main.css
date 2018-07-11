@@ -1,0 +1,11 @@
+/**
+ * Main CSS File
+ */
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+#wrapper{
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
